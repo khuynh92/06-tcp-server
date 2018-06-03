@@ -1,6 +1,6 @@
 # 06 TCP server chatroom
 
-##getting started
+## getting started
 
 After downloading the code run `npm i` to install all dependencies of the project.
 
